@@ -8,9 +8,12 @@ No packages outside anaconda is nescessary.
 ### Motivation:
 This project has been conducted as a part of Udacity's Data Scientist Nanodegree. The Students were to pick a dataset, come up with 
 some questions and answer those questions through a blogpost. The questions I chos was:
+
  -Is there any significant difference by price?
- - Is there any noticeable difference between Seattle and Boston Airbnb?
- - How well your model predicts data?
+ 
+ -Is there any noticeable difference between Seattle and Boston Airbnb?
+ 
+ -How well your model predicts data?
 ### Summary
 I found that the main driver for prices are how many people a listing can accommodate. Location is also very important aswell as aminities
 such as TV, parking, Internet and air condition.
