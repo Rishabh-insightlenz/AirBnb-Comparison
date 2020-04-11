@@ -29,7 +29,7 @@ A folder with the raw data and this readme file.
 
 
 ### How to interact with this project.
-I advice to read the blogpost first in order to get an overview and the essential. If you want to replicate or read the technical part of the project you can read through the jupyter notebook and interact with it if you want. The raw data is in the foler called "seattle"and"Boston"
+I advice to read the blogpost first in order to get an overview and the essential. If you want to replicate or read the technical part of the project you can read through the jupyter notebook and interact with it if you want. The raw data is in the folder called "DATA"
 
 ### Licensing, Authors, Acknowledgements, etc.
 The project has been comnpleted by myself.
